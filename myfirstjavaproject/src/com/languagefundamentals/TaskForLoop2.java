@@ -1,6 +1,5 @@
 package com.languagefundamentals;
 
-
 import java.util.Scanner;
 
 public class TaskForLoop2 {
@@ -12,14 +11,14 @@ public class TaskForLoop2 {
 		Scanner sc = new Scanner(System.in);
 		int i = sc.nextInt();
 
-		for (; i >=0 ; i--) {
+		for (; i <= 100; i++) {
 //			System.out.println(i + " ");
 
-			if (i % 2 != 0) {
+			if (i % 2 == 0) {
 				System.out.println(i + " ");
-				
+
 			}
-			
+
 		}
 		System.out.println("main method ended");
 	}

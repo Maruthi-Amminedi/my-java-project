@@ -1,5 +1,5 @@
 package com.languagefundamentals;
-
+//WAP TO KNOW WHETHER THE NUMBER PERFECT NUMBER OR NOT
 import java.util.Scanner;
 
 public class TaskForLoop5 {

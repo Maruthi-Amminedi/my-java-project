@@ -1,5 +1,5 @@
 package com.languagefundamentals;
-
+// Factors of a given number
 import java.util.Scanner;
 
 public class TaskForLoop3 {
